@@ -1,0 +1,13 @@
+c:\users\lovea\onedrive\documents\visual studio 2015\Projects\MagicSupplyStore\MagicSupplyStore\bin\Debug\MagicSupplyStore.exe.config
+c:\users\lovea\onedrive\documents\visual studio 2015\Projects\MagicSupplyStore\MagicSupplyStore\bin\Debug\MagicSupplyStore.exe
+c:\users\lovea\onedrive\documents\visual studio 2015\Projects\MagicSupplyStore\MagicSupplyStore\bin\Debug\MagicSupplyStore.pdb
+c:\users\lovea\onedrive\documents\visual studio 2015\Projects\MagicSupplyStore\MagicSupplyStore\obj\Debug\MagicSupplyStore.exe
+c:\users\lovea\onedrive\documents\visual studio 2015\Projects\MagicSupplyStore\MagicSupplyStore\obj\Debug\MagicSupplyStore.pdb
+C:\Users\lovea\OneDrive\Documents\Visual Studio 2015\Projects\MagicSupplyStore\MagicSupplyStore\obj\Debug\MagicSupplyStore.csprojResolveAssemblyReference.cache
+D:\MyProjects\MagicSupplyStore\MagicSupplyStore\bin\Debug\MagicSupplyStore.exe.config
+D:\MyProjects\MagicSupplyStore\MagicSupplyStore\bin\Debug\MagicSupplyStore.exe
+D:\MyProjects\MagicSupplyStore\MagicSupplyStore\bin\Debug\MagicSupplyStore.pdb
+D:\MyProjects\MagicSupplyStore\MagicSupplyStore\obj\Debug\MagicSupplyStore.csprojAssemblyReference.cache
+D:\MyProjects\MagicSupplyStore\MagicSupplyStore\obj\Debug\MagicSupplyStore.csproj.CoreCompileInputs.cache
+D:\MyProjects\MagicSupplyStore\MagicSupplyStore\obj\Debug\MagicSupplyStore.exe
+D:\MyProjects\MagicSupplyStore\MagicSupplyStore\obj\Debug\MagicSupplyStore.pdb

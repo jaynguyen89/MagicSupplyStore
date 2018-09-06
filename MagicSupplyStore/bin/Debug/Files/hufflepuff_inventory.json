@@ -1,0 +1,92 @@
+[
+{
+"Id": 1,
+"ProductName": "Magic Wand",
+"CurStock": 28,
+"Restock": false
+},
+{
+"Id": 3,
+"ProductName": "Magician Suit Black",
+"CurStock": 1,
+"Restock": true
+},
+{
+"Id": 5,
+"ProductName": "Sword Thru Neck",
+"CurStock": 5,
+"Restock": true
+},
+{
+"Id": 6,
+"ProductName": "Jokers Wild",
+"CurStock": 22,
+"Restock": false
+},
+{
+"Id": 7,
+"ProductName": "Dice Set Trick",
+"CurStock": 17,
+"Restock": false
+},
+  {
+    "Id": 8,
+    "ProductName": "Magician Gloves",
+    "CurStock": 12,
+    "Restock": true
+  },
+  {
+"Id": 9,
+"ProductName": "Finger Tip XL",
+"CurStock": 29,
+"Restock": false
+},
+{
+"Id": 10,
+"ProductName": "Magic Handcuffs",
+"CurStock": 31,
+"Restock": false
+},
+{
+"Id": 12,
+"ProductName": "Magic Bunny",
+"CurStock": 26,
+"Restock": false
+},
+{
+"Id": 13,
+"ProductName": "Magician Hat",
+"CurStock": 5,
+"Restock": true
+},
+{
+"Id": 14,
+"ProductName": "Card Drawer Box",
+"CurStock": 4,
+"Restock": true
+},
+{
+"Id": 16,
+"ProductName": "Hand Buzzer",
+"CurStock": 18,
+"Restock": false
+},
+{
+"Id": 18,
+"ProductName": "The Magic Rope",
+"CurStock": 10,
+"Restock": true
+},
+{
+"Id": 20,
+"ProductName": "Trick Flick Knife",
+"CurStock": 0,
+"Restock": true
+},
+{
+"Id": 21,
+"ProductName": "Fake Blood",
+"CurStock": 0,
+"Restock": true
+}
+]

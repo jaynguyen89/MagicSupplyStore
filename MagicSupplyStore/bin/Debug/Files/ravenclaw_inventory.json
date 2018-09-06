@@ -1,0 +1,92 @@
+[
+{
+"Id": 2,
+"ProductName": "The Vanishing Coin",
+"CurStock": 10,
+"Restock": true
+},
+{
+"Id": 4,
+"ProductName": "Spinning Light Vortex",
+"CurStock": 7,
+"Restock": true
+},
+{
+"Id": 5,
+"ProductName": "Sword Thru Neck",
+"CurStock": 17,
+"Restock": false
+},
+{
+"Id": 6,
+"ProductName": "Jokers Wild",
+"CurStock": 5,
+"Restock": true
+},
+{
+"Id": 7,
+"ProductName": "Dice Set Trick",
+"CurStock": 4,
+"Restock": true
+},
+{
+"Id": 9,
+"ProductName": "Finger Tip XL",
+"CurStock": 30,
+"Restock": false
+},
+{
+"Id": 10,
+"ProductName": "Magic Handcuffs",
+"CurStock": 20,
+"Restock": false
+},
+{
+"Id": 11,
+"ProductName": "Houdini Chain Shackle",
+"CurStock": 4,
+"Restock": true
+},
+{
+"Id": 13,
+"ProductName": "Magician Hat",
+"CurStock": 0,
+"Restock": true
+},
+{
+"Id": 14,
+"ProductName": "Card Drawer Box",
+"CurStock": 20,
+"Restock": false
+},
+{
+"Id": 17,
+"ProductName": "Two-Headed Coin",
+"CurStock": 12,
+"Restock": true
+},
+{
+"Id": 18,
+"ProductName": "The Magic Rope",
+"CurStock": 11,
+"Restock": true
+},
+{
+"Id": 19,
+"ProductName": "PsychoKinesis Set",
+"CurStock": 6,
+"Restock": true
+},
+{
+"Id": 21,
+"ProductName": "Fake Blood",
+"CurStock": 28,
+"Restock": false
+},
+{
+"Id": 22,
+"ProductName": "Droopy Eye Glasses",
+"CurStock": 19,
+"Restock": false
+}
+]

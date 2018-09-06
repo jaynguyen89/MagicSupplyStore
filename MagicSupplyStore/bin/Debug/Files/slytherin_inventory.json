@@ -1,0 +1,92 @@
+[
+{
+"Id": 1,
+"ProductName": "Magic Wand",
+"CurStock": 4,
+"Restock": true
+},
+{
+"Id": 2,
+"ProductName": "The Vanishing Coin",
+"CurStock": 78,
+"Restock": false
+},
+{
+"Id": 3,
+"ProductName": "Magician Suit Black",
+"CurStock": 2,
+"Restock": true
+},
+{
+"Id": 5,
+"ProductName": "Sword Thru Neck",
+"CurStock": 23,
+"Restock": false
+},
+{
+"Id": 6,
+"ProductName": "Jokers Wild",
+"CurStock": 5,
+"Restock": true
+},
+{
+"Id": 8,
+"ProductName": "Magician Gloves",
+"CurStock": 9,
+"Restock": true
+},
+{
+"Id": 12,
+"ProductName": "Magic Bunny",
+"CurStock": 33,
+"Restock": false
+},
+{
+"Id": 14,
+"ProductName": "Card Drawer Box",
+"CurStock": 37,
+"Restock": false
+},
+{
+"Id": 15,
+"ProductName": "Master Mind Wallet",
+"CurStock": 52,
+"Restock": false
+},
+{
+"Id": 16,
+"ProductName": "Hand Buzzer",
+"CurStock": 15,
+"Restock": true
+},
+{
+"Id": 17,
+"ProductName": "Two-Headed Coin",
+"CurStock": 15,
+"Restock": true
+},
+{
+"Id": 18,
+"ProductName": "The Magic Rope",
+"CurStock": 27,
+"Restock": false
+},
+{
+"Id": 19,
+"ProductName": "PsychoKinesis Set",
+"CurStock": 10,
+"Restock": true
+},
+{
+"Id": 20,
+"ProductName": "Trick Flick Knife",
+"CurStock": 5,
+"Restock": true
+},
+{
+"Id": 21,
+"ProductName": "Fake Blood",
+"CurStock": 0,
+"Restock": true
+}
+]

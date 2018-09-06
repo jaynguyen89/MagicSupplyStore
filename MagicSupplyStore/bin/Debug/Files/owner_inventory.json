@@ -1,0 +1,112 @@
+[  
+  {
+    "Id": 1,
+    "ProductName": "Magic Wand",
+    "Quantity": 20
+  },
+  {
+    "Id": 2,
+    "ProductName": "The Vanishing Coin",
+    "Quantity": 100
+  },
+  {
+    "Id": 3,
+    "ProductName": "Magician Suit Black",
+    "Quantity": 10
+  },
+  {
+    "Id": 4,
+    "ProductName": "Spinning Light Vortex",
+    "Quantity": 25
+  },
+  {
+    "Id": 5,
+    "ProductName": "Sword Thru Neck",
+    "Quantity": 20
+  },
+  {
+    "Id": 6,
+    "ProductName": "Jokers Wild",
+    "Quantity": 30
+  },
+  {
+    "Id": 7,
+    "ProductName": "Dice Set Trick",
+    "Quantity": 30
+  },
+  {
+    "Id": 8,
+    "ProductName": "Magician Gloves",
+    "Quantity": 50
+  },
+  {
+    "Id": 9,
+    "ProductName": "Fake Finger Tip XL",
+    "Quantity": 65
+  },
+  {
+    "Id": 10,
+    "ProductName": "Magic Handcuffs",
+    "Quantity": 35
+  },
+  {
+    "Id": 11,
+    "ProductName": "Houdini Chain Shackle",
+    "Quantity": 25
+  },
+  {
+    "Id": 12,
+    "ProductName": "The Magic Bunny",
+    "Quantity": 35
+  },
+  {
+    "Id": 13,
+    "ProductName": "Magician Hat",
+    "Quantity": 45
+  },
+  {
+    "Id": 14,
+    "ProductName": "Card Drawer Box",
+    "Quantity": 40
+  },
+  {
+    "Id": 15,
+    "ProductName": "Master Mind Wallet",
+    "Quantity": 75
+  },
+  {
+    "Id": 16,
+    "ProductName": "Hand Buzzer XXL",
+    "Quantity": 50
+  },
+  {
+    "Id": 17,
+    "ProductName": "Two-Headed Coin",
+    "Quantity": 80
+  },
+  {
+    "Id": 18,
+    "ProductName": "The Magic Rope",
+    "Quantity": 45
+  },
+  {
+    "Id": 19,
+    "ProductName": "PsychoKinesis Set",
+    "Quantity": 35
+  },
+  {
+    "Id": 20,
+    "ProductName": "Trick Flick Knife",
+    "Quantity": 65
+  },
+  {
+    "Id": 21,
+    "ProductName": "Fake Blood Tube M",
+    "Quantity": 55
+  },
+  {
+    "Id": 22,
+    "ProductName": "Droopy Eye Glasses",
+    "Quantity": 40
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "Id": 1,
+    "ProductName": "Magic Wand",
+    "CurStock": 3,
+    "Restock": true
+  },
+  {
+    "Id": 2,
+    "ProductName": "The Vanishing Coin",
+    "CurStock": 62,
+    "Restock": false
+  },
+  {
+    "Id": 3,
+    "ProductName": "Magician Suit Black",
+    "CurStock": 5,
+    "Restock": true
+  },
+  {
+    "Id": 5,
+    "ProductName": "Sword Thru Neck",
+    "CurStock": 0,
+    "Restock": true
+  },
+  {
+    "Id": 6,
+    "ProductName": "Jokers Wild",
+    "CurStock": 10,
+    "Restock": true
+  },
+  {
+    "Id": 8,
+    "ProductName": "Magician Gloves",
+    "CurStock": 8,
+    "Restock": true
+  },
+  {
+    "Id": 9,
+    "ProductName": "Finger Tip XL",
+    "CurStock": 8,
+    "Restock": true
+  },
+  {
+    "Id": 11,
+    "ProductName": "Houdini Chain Shackle",
+    "CurStock": 1,
+    "Restock": true
+  },
+  {
+    "Id": 12,
+    "ProductName": "Magic Bunny",
+    "CurStock": 2,
+    "Restock": true
+  },
+  {
+    "Id": 13,
+    "ProductName": "Magician Hat",
+    "CurStock": 19,
+    "Restock": false
+  },
+  {
+    "Id": 14,
+    "ProductName": "Card Drawer Box",
+    "CurStock": 21,
+    "Restock": false
+  },
+  {
+    "Id": 15,
+    "ProductName": "Master Mind Wallet",
+    "CurStock": 35,
+    "Restock": false
+  },
+  {
+    "Id": 16,
+    "ProductName": "Hand Buzzer",
+    "CurStock": 29,
+    "Restock": false
+  },
+  {
+    "Id": 17,
+    "ProductName": "Two-Headed Coin",
+    "CurStock": 14,
+    "Restock": true
+  },
+  {
+    "Id": 18,
+    "ProductName": "The Magic Rope",
+    "CurStock": 5,
+    "Restock": true
+  },
+  {
+    "Id": 20,
+    "ProductName": "Trick Flick Knife",
+    "CurStock": 35,
+    "Restock": false
+  },
+  {
+    "Id": 21,
+    "ProductName": "Fake Blood",
+    "CurStock": 40,
+    "Restock": false
+  }
+]

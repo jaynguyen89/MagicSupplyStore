@@ -1,0 +1,36 @@
+Gryffindor Witchers,Magic Wand,10,3,1
+Gryffindor Witchers,Finger Tip XL,30,8,1
+Hufflepuff House,Card Drawer Box,15,4,1
+Ravenclaw Wizards,Two-Headed Coin,35,12,1
+Slytherin Manor,Fake Blood,20,0,1
+Gryffindor Witchers,Magic Bunny,10,2,1
+Ravenclaw Wizards,Spinning Light Vortex,20,7,1
+Ravenclaw Wizards,Magician Hat,20,0,1
+Hufflepuff House,Magician Hat,15,5,1
+Ravenclaw Wizards,The Magic Rope,25,11,1
+Slytherin Manor,Magic Wand,15,4,1
+Slytherin Manor,Magician Suit Black,8,2,1
+Gryffindor Witchers,Two-Headed Coin,40,14,1
+Hufflepuff House,Magician Suit Black,4,1,1
+Hufflepuff House,The Magic Rope,25,10,1
+Slytherin Manor,Two-Headed Coin,15,15,1
+Gryffindor Witchers,Houdini Chain Shackle,15,1,1
+Ravenclaw Wizards,The Vanishing Coin,45,10,1
+Slytherin Manor,Jokers Wild,20,5,1
+Ravenclaw Wizards,Jokers Wild,10,5,1
+Gryffindor Witchers,Magician Gloves,30,8,1
+Slytherin Manor,Hand Buzzer,35,15,1
+Slytherin Manor,Trick Flick Knife,35,5,1
+Hufflepuff House,Magician Gloves,20,12,1
+Gryffindor Witchers,Sword Thru Neck,15,0,1
+Hufflepuff House,Fake Blood,30,0,1
+Gryffindor Witchers,Jokers Wild,10,10,1
+Hufflepuff House,Sword Thru Neck,10,5,1
+Slytherin Manor,Magician Gloves,20,9,1
+Ravenclaw Wizards,Houdini Chain Chackle,10,4,1
+Ravenclaw Wizards,PsychoKinesis Set,15,6,1
+Hufflepuff House,Trick Flick Knife,30,0,1
+Gryffindor Witchers,Magician Suit Black,5,5,1
+Gryffindor Witchers,The Magic Rope,20,5,1
+Ravenclaw Wizards,Dice Set Trick,20,4,1
+Slytherin Manor,PsychoKinesis Set,25,10,1
